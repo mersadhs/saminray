@@ -1,0 +1,292 @@
+
+body
+{
+   margin: 0px;
+   padding: 0px;
+   border: 0px;
+}
+.a1
+{
+   width : 100%;
+   height : 600px;
+   background-color: rgba(179, 9, 136, 0.5);
+   background-image: linear-gradient(to right,pink,purple);
+   top: 0px;
+   position: relative;
+}
+#img1
+{
+   width: 100%;
+   height: 600px;
+   opacity: 10%;
+   position: absolute;
+   top: 0px;
+}
+.a2
+{
+   margin-top: 30px;
+   margin-left: 150px;
+   width: 1200px;
+   height: 70px;
+   background-color: white;
+   border-radius: 30px;
+   position: fixed;
+   z-index: 10;
+   box-shadow: 1px 1px 4px grey;
+}
+.a3
+{  
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   position: relative;
+}
+.b1
+{
+   margin-right: 40px;
+   float: right;
+   margin-left: 20px;
+   margin-top: 23px;
+}
+
+.b2, .b3, .b4, .b5, .b6, .b7
+{
+    float: right;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 23px;
+}
+
+#c1,#c2,#c3,#c4,#c5,#c6
+{
+   font-size: 17px;
+   color: black;
+   text-decoration: none;
+}
+#c7,#c8
+{
+   text-decoration: none;
+   color: purple;
+}
+#c8
+{
+   font-size: 22px;
+}
+#span1
+{
+   color: purple;
+}
+#span2
+{
+   color: pink;
+}
+.b8
+{
+    float: right;
+    margin-right: 220px;
+    margin-left: 20px;
+    margin-top: 23px; 
+} 
+.a4
+{
+   width: 100%;
+   height: 250px;
+   text-align: center;
+   position: absolute;
+   top: 167px;
+   left: 0px;
+   color: white;  
+}
+#d1
+{
+   font-size: 32px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+#d2
+{
+   font-size: 17px;
+}
+#e1
+{
+   width: 140px;
+   height: 35px;
+   background-color: rgb(243, 82, 157);
+   color: white;
+   border-radius: 35px;
+   transform: translate(-50%, -50%);
+   position: absolute;
+   right: 50%;
+   left:50%;
+   margin-top: 20px;
+   border: none;
+}
+.f0
+{
+   width: 100%;
+   height: 350px;
+   position: absolute;
+   top: 450px;
+}
+
+.f1
+{
+   border-radius: 30px;
+   width: 360px;
+   height: 290px;
+   position: absolute;
+   top: 30px;
+   left: 160px;
+   background-color: white;
+   text-align: center;
+   box-shadow: 1px 1px 4px grey;
+}
+
+.f2
+{
+   border-radius: 30px;
+   width: 360px;
+   height: 290px;
+   background-color: white;
+   transform: translate(-50%, -50%);
+   position: absolute;
+   top: 178px;
+   right: 50%;
+   left:50%;
+   text-align: center;
+   box-shadow: 1px 1px 4px grey;
+}
+
+.f3
+{
+   border-radius: 30px;
+   width: 360px;
+   height: 290px;
+   position: absolute;
+   top: 30px;
+   left: 990px;
+   background-color: white;
+   text-align: center;
+   box-shadow: 1px 1px 4px grey;
+}
+#g1
+{ 
+   width: 90px;
+   height: 90px;
+   border-radius: 50px;
+   margin-top: 30px;
+}
+#h1
+{
+   font-size: 27px;
+   color: black;
+}
+#h2
+{
+   font-size: 15px;
+   color: rgb(116, 113, 113);
+}
+.i0
+{
+   width: 100%;
+   height: 440px;
+   position: absolute;
+   top: 810px; 
+}
+.i1
+{
+   width: 400px;
+   height: 350px;
+   position: absolute;
+   top: 50px;
+   left: 200px;
+   text-align: center;
+}
+.i2
+{
+   width: 600px;
+   height: 350px;
+   position: absolute;
+   top: 50px;
+   left: 800px;  
+}
+#j1
+{
+   text-align: center;
+   font-size: 35px;
+   color: black;
+   margin-top: 50px;
+   margin-left: 0px;
+}
+#j2
+{
+   font-size: 20px;
+   color: rgb(116, 113, 113);
+   text-align: center;
+   margin-left: 77px;
+   margin-bottom: 0px;
+}
+
+#v0
+{
+   font-size: 20px;
+   color: rgb(116, 113, 113);
+   margin-top: 0px;
+   margin-left: 92px;
+}
+#j3
+{
+   margin-top: 400px;
+   width: 95%;
+   
+}
+.k0
+{
+   width: 100%;
+   height: 450px;
+   position: absolute;
+   top: 1260px;
+   left: 0px;
+}
+.k1
+{
+   width: 650px;
+   height: 350px;
+   position: absolute;
+   top: 50px;
+   left: 150px;
+   text-align: center;
+}
+#l1
+{
+   text-align: center;
+   font-size: 35px;
+   color: black;
+   margin-top: 50px;
+   margin-left: 5px;
+}
+#l2
+{
+   font-size: 20px;
+   color: rgb(116, 113, 113);
+   text-align: center;
+   margin-left: -31px;
+   margin-bottom: 0px;
+}
+#v1
+{
+   font-size: 20px;
+   color: rgb(116, 113, 113);
+   margin-top: 0px;
+   margin-left: -405px;
+}
+.k2
+{
+   width: 400px;
+   height: 350px;
+   position: absolute;
+   top: 50px;
+   left: 900px;
+}
+
+
